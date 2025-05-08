@@ -1,12 +1,31 @@
-# React + Vite
+# ⏰ React Sky Clock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning, interactive clock application that brings the sky to life. This React-based clock features a dynamic background that mirrors the natural progression of the day, complete with animated celestial elements and atmospheric effects.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎯 Core Functionality
+- **Real-time Clock Display**
+  - 24-hour format
+  - High-precision timekeeping
+  - Locale-aware time formatting
 
-## Expanding the ESLint configuration
+### 🌈 Dynamic Sky States
+- **Dawn** (5:00-7:59) - Soft pink and orange hues
+- **Day** (8:00-16:59) - Bright blue skies
+- **Dusk** (17:00-19:59) - Warm sunset colors
+- **Night** (20:00-4:59) - Deep blue with stars
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🎨 Visual Elements
+- Animated floating clouds
+- Transitioning sun and moon
+- Twinkling stars (night mode)
+- Smooth gradient transitions
+
+## 🛠️ Technical Stack
+
+- **Frontend:** React 18
+- **Build Tool:** Vite
+- **Styling:** Pure CSS3 with animations
+- **State Management:** React Hooks
+- **Time Handling:** Native JavaScript Date API
