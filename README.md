@@ -1,6 +1,7 @@
 # ⏰ React Sky Clock
 
-![image](https://github.com/user-attachments/assets/3041dffd-c8d1-4fb8-84ee-4d9b0a8bc043)
+![image](https://github.com/user-attachments/assets/802bd358-144b-40ac-b06e-c710f3cbfc31)
+
 
 
 A stunning, interactive clock application that brings the sky to life. This React-based clock features a dynamic background that mirrors the natural progression of the day, complete with animated celestial elements and atmospheric effects.
